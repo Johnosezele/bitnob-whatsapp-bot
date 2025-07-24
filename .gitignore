@@ -1,0 +1,87 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# WhatsApp authentication data
+auth_info/
+*.session
+*.session.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+bitnob_bot.db
+bitnob_bot.db-shm
+bitnob_bot.db-wal
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Documentation and notes (sensitive info)
+action-items.md
+architecture-improvements.md
+HACKATHON_2_DAY_PLAN.md
+hackathon-plan.md
+hackathon_mvp.md
+docs/
+notes/
+planning/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# API keys and secrets
+keys/
+secrets/
+credentials/
+*.key
+*.pem
+*.crt
+*.cert
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Build outputs
+dist/
+build/
+out/
+
+# Backup files
+*.backup
+*.bak
+*.orig
