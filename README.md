@@ -1,6 +1,7 @@
 # 🚀 Bitnob WhatsApp P2P Crypto Bot
 
 > **"Venmo for Crypto in Africa"** - Instant Bitcoin & USDT transfers via WhatsApp
+![IMAGE 2025-07-25 9:58:45 AM](https://github.com/user-attachments/assets/09cff421-a72d-40e8-8977-fae006fceda7)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349121204263)
 [![Bitnob](https://img.shields.io/badge/Powered%20by-Bitnob-orange?style=for-the-badge)](https://bitnob.com)
